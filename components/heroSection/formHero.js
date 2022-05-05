@@ -96,7 +96,7 @@ function FormHero() {
       >
         <option value="" disabled defaultValue>Selecione um curso</option>
         <option value="Administração">Assistente Completo Administrativo</option>
-        <option value="Farmacia">Atendente de Farmácia</option>
+        {/* <option value="Farmacia">Atendente de Farmácia</option> */}
         <option value="Ingles">Cebrac English</option>
         <option value="Cuidador">Cuidador</option>
         <option value="Logistica">Logística Completa</option>
