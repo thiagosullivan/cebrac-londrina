@@ -18,14 +18,14 @@ export default function Home() {
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://http://cuiabacebrac.com.br/" />
+        <meta property="og:url" content="https://londrinacebrac.com.br" />
         <meta property="og:title" content="Cebrac Unidade de Londrina" />
         <meta property="og:description" content="Cursos Unidade Londrina. Prepare-se para o mercado de trabalho com os melhores cursos profissionalizantes do Brasil em 7 áreas de atuação!" />
         <meta property="og:image" content="https://raw.githubusercontent.com/thiagosullivan/cuiaba-cebrac/main/assets/cebrac-img-metatag.jpg" />
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://http://cuiabacebrac.com.br/" />
+        <meta property="twitter:url" content="https://londrinacebrac.com.br" />
         <meta property="twitter:title" content="Cebrac Unidade de Londrina" />
         <meta property="twitter:description" content="Cursos Unidade Londrina. Prepare-se para o mercado de trabalho com os melhores cursos profissionalizantes do Brasil em 7 áreas de atuação!" />
         <meta property="twitter:image" content="https://raw.githubusercontent.com/thiagosullivan/cuiaba-cebrac/main/assets/cebrac-img-metatag.jpg"></meta>

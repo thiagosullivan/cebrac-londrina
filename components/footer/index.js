@@ -29,11 +29,11 @@ function FooterSection() {
                 <a>Assistente Administrativo Completo</a>
               </Link>
               </li>
-            <li>
+            {/* <li>
               <Link href="/#fmc">
                 <a>Atendente de Farmácia</a>              
               </Link>
-              </li>
+            </li> */}
             <li>
               <Link href="/#eng">
                 <a>Cebrac English</a>

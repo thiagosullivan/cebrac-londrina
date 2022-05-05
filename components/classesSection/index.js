@@ -11,13 +11,13 @@ import { ClassesContainer } from './style'
 function ClassesSection() {
   return (
     <ClassesContainer>
-      <Adm />
-      <Fmc />
-      <Eng />
-      <Cdd />
-      <Log />
-      <Mcc />
-      <Pbb />
+      <Adm />x
+      {/* <Fmc /> */}
+      <Eng />x
+      <Cdd />x
+      <Log />x
+      <Mcc />x
+      <Pbb />x
     </ClassesContainer>
   )
 }

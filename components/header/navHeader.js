@@ -15,9 +15,9 @@ function NavHeaderDesktop() {
         <li>
           <a href="#adm">Assistente<br/>Administrativo</a>
         </li>
-        <li>
+        {/* <li>
           <a href="#fmc">Atendente de<br/>Farmácia</a>
-        </li>
+        </li> */}
         <li>
           <a href="#eng">Cebrac<br/>English</a>
         </li>

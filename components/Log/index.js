@@ -27,10 +27,10 @@ function Log() {
             <p>Com o CEBRAC no currículo é assim: você mais perto do mercado de trabalho e da realização dos seus sonhos. O CEBRAC conta com educadores especializados e uma metodologia de ensino diferenciada, garantindo uma formação pessoal e profissional de qualidade.</p>
           </AsideImage>
           <div className='class_iframe'>
-            <iframe width="500" height="315" src="https://www.youtube.com/embed/GYZPSahX0dk" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+            <iframe width="500" height="315" src="https://www.youtube.com/embed/aYvRZvJHclE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
           </div>
           <div className='class_iframe_mobile'>
-            <iframe width="300" height="189" src="https://www.youtube.com/embed/GYZPSahX0dk" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+            <iframe width="300" height="189" src="https://www.youtube.com/embed/aYvRZvJHclE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
           </div>
         </AsideClass>
         <div className='class__container__info'>

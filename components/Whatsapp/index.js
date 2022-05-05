@@ -7,10 +7,10 @@ function Whatsapp() {
   return (
     <WhatsappContainer>
       <a
-        href="http://api.whatsapp.com/send?1=pt_BR&amp;phone=5565992049504"
-        data-number="65992049504"
+        href="http://api.whatsapp.com/send?1=pt_BR&amp;phone=554330268888"
+        data-number="4330268888"
         data-auto-text="CHAME AGORA!"
-        data-ga-label="Cebrac Cuiaba"
+        data-ga-label="Cebrac Londrina"
         target="_blank"
         rel="noreferrer"
       >

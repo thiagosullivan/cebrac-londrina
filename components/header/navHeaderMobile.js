@@ -35,15 +35,15 @@ function NavHeaderMobile() {
             </Link>
           </li>
           <li>
-            <Link href="/#adm">
+            <Link href="#adm">
               <a onClick={showMenu}>Assistente<br/>Administrativo</a>
             </Link>
           </li>
-          <li>
+          {/* <li>
           <Link href="/#fmc">
             <a onClick={showMenu}>Atendente de<br/>Farmácia</a>
           </Link>
-          </li>
+          </li> */}
           <li>
             <Link href="#eng">
               <a onClick={showMenu}>Cebrac<br/>English</a>            
